@@ -6,9 +6,9 @@
     "dev": "json-server --watch db.json",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Fabricio Cunha",
   "license": "ISC",
-  "description": "",
+  "description": "interflix json-server",
   "dependencies": {
     "json-server": "^0.17.4"
   }
