@@ -42,6 +42,7 @@
       }
     }
   ],
+  
   "videos": [
     {
       "id": 1,
@@ -72,12 +73,6 @@
       "categoriaId": 5,
       "titulo": "Final Fantasy 7",
       "url": "https://www.youtube.com/watch?v=I_ATSCTnUD8"
-    },
-    {
-      "id": 6,
-      "categoriaId": 1,
-      "titulo": "SEO com React",
-      "url": "https://www.youtube.com/watch?v=c8mVlakBESE"
     },
     {
       "id": 7,
